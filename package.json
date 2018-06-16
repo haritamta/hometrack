@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "code test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "~4.10.2"
+  },
+  "engines": {
+    "node": "^8.9.4"
+  },
+  "author": "Hari",
+  "license": "ISC"
+}
